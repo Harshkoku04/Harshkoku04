@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi Kharche</h1>
+<h1 align="center">Hi 👋, I'm Harsh Koku</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <p align="center">
