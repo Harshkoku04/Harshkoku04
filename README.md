@@ -7,11 +7,11 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 - 🔭 I’m currently working as a **Java Full Stack Developer**
 - 🌱 Learning more about **Spring Boot, REST APIs, and MySQL optimization**
 - 💬 Ask me about **Java, HTML/CSS/JS, MySQL, and full stack project structure**
-- ⚡ Fun fact: I love turning complex problems into simple, clean solutions
+- ⚡ Fun fact: I enjoy turning ideas into scalable applications
 
 ---
 
@@ -30,19 +30,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavikharche&show_icons=true&theme=radical" alt="Vaishnavi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkoku&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikharche&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkoku&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="mailto:Harshkokku@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
-  
+  <a href="mailto:harshkokku@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHyntPuVO0hbAAAAZg2NQCgYke-zxhiF8JnnC0KEoEFrjp-jIqiq4RjoKLTlZvnRByzNCUSRDLQDVrBACI-Q5ybMxyYu8NSFUlEI564EkMwfod2oOmBaOhxR0KSeazq8H1MhpE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fharsh-koku-080845250%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 _Thanks for stopping by! ⭐ Feel free to check out my projects and follow for more Java full stack content._
+Let me know if you want to:
